@@ -15,8 +15,7 @@ Add appropriate HTML5 validation to ensure each field is correctly filled before
 ## Screenshots
 ### Code HTML5
 ![Alt Text](html1.png)
-### Code CSS
-![Alt Text](css1.png)
+
 ### Result
 ![Alt Text](result.png)
 
